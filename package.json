@@ -1,0 +1,33 @@
+{
+  "name": "codescriptwiz",
+  "version": "1.0.2",
+  "description": "codescriptwiz",
+  "type": "module",
+  "main": "codescriptwiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulsonj1991/codescriptwiz"
+  },
+  "website": "https://github.com/paulsonj1991/codescriptwiz.git",
+  "keywords": [
+    "codescriptwiz"
+  ],
+  "author": "paulsonj1991",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulsonj1991/codescriptwiz/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/paulsonj1991/codescriptwiz#readme",
+  "dependencies": {
+    "devprogrammer": "1.0.2",
+    "scriptcodesavvy": "1.0.2",
+    "codementor": "1.0.2"
+  }
+}
